@@ -1,0 +1,624 @@
+Array
+(
+    [total_results] => 166525
+    [0] => Array
+        (
+            [id] => 2081116
+            [title] => Array
+                (
+                    [en] => Barry Dock Offices
+                    [cy] => Swyddfeydd Doc y Barri
+                )
+
+            [nodeType] => item
+            [url] => https://www.peoplescollection.wales/items/2081116
+            [created] => 1706529408
+            [updated] => 1729247965
+            [status] => published
+            [type] => item
+            [description] => Array
+                (
+                    [en] => <p>A black and white photograph of Barry Dock Offices and the statue of David Davies.</p>
+                    [cy] => <p>A black and white photograph of Barry Dock Offices and the statue of David Davies.</p>
+                )
+
+            [author] => Array
+                (
+                    [id] => 5683
+                    [name] => Vale of Glamorgan Libraries
+                )
+
+            [creator] => Unknown
+            [owner] => Unknown
+            [publisher] => 
+            [copyright] => Array
+                (
+                    [0] => Array
+                        (
+                            [holder] => Array
+                                (
+                                    [en] => Unknown
+                                    [cy] => Unknown
+                                )
+
+                            [year] => 
+                            [type] => Owner
+                        )
+
+                    [1] => Array
+                        (
+                            [holder] => Array
+                                (
+                                    [en] => Unknown
+                                    [cy] => Unknown
+                                )
+
+                            [year] => 
+                            [type] => Copyright holder
+                        )
+
+                )
+
+            [license] => Array
+                (
+                    [reproducedPermission] => Array
+                        (
+                        )
+
+                    [additionalText] => Array
+                        (
+                        )
+
+                    [type] => 
+                )
+
+            [tags] => Array
+                (
+                    [0] => barry
+                    [1] => docks
+                )
+
+            [when] => Array
+                (
+                )
+
+            [date] => 
+            [what] => Array
+                (
+                    [0] => OTHER: Industry
+                )
+
+            [learn] => Array
+                (
+                )
+
+            [locations] => Array
+                (
+                )
+
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [originalFilename] => VOG03374.jpg
+                            [url] => https://www.peoplescollection.wales/sites/default/files/images/2024/January/VOG03374.jpg
+                            [type] => image
+                            [target_id] => 2081106
+                        )
+
+                )
+
+            [original_item_url] => Array
+                (
+                    [en] => 
+                    [cy] => 
+                )
+
+            [guid] => 
+            [publisher_ref] => VOG03374
+        )
+
+    [1] => Array
+        (
+            [id] => 12
+            [title] => Array
+                (
+                    [en] => 'Save Tryweryn' Rally organised by Plaid Cymru, Bala, 4 October 1956
+                    [cy] => Rali 'Cadw Tryweryn' a drefnwyd gan Blaid Cymru, Y Bala, 4 Hydref 1956
+                )
+
+            [nodeType] => item
+            [url] => https://www.peoplescollection.wales/items/12
+            [created] => 1248428067
+            [updated] => 1593618517
+            [status] => published
+            [type] => item
+            [description] => Array
+                (
+                    [en] => Photographed by Geoff Charles.
+
+It was in 1955 that it was first announced that Liverpool Corporation was intending to build the new reservoir in the Tryweryn valley, drowning the village of Capel Celyn, north of Bala.  Although a fierce protest campaign was launched by local residents, authorities, individuals and national institutions, all efforts to halt the building of the new reservoir ultimately failed.  On 1 August 1957 the Liverpool Corporation Act was passed.  Work began on the site three years later and was completed in August 1965.
+                    [cy] => Tynnwyd y ffotograff gan Geoff Charles.
+
+Ym 1955, cyhoeddodd Corfforaeth Lerpwl ei bwriad i adeiladu cronfa ddŵr newydd yng Nghwm Tryweryn, gan foddi pentref Capel Celyn, i'r gogledd o dref y Bala.  Lansiwyd ymgyrch ddygn i wrthwynebu'r cynlluniau gan drigolion ac awdurdodau lleol, unigolion a sefydliadau cenedlaethol,  ond er gwaethaf pob ymdrech ni lwyddwyd i rwystro'r datblygiad ac ar 1 Awst 1957 pasiwyd Deddf Corfforaeth Lerpwl.  Dechreuodd y gwaith ar y safle dair mlynedd yn ddiweddarach ac fe gwblhawyd y cynllun ym mis Awst 1965.
+                )
+
+            [author] => Array
+                (
+                    [id] => 2889
+                    [name] => Gathering The Jewels
+                )
+
+            [creator] => Charles, Geoff
+            [owner] => The National Library of Wales
+            [publisher] => 
+            [copyright] => Array
+                (
+                    [0] => Array
+                        (
+                            [holder] => Array
+                                (
+                                    [en] => The National Library of Wales
+                                    [cy] => The National Library of Wales
+                                )
+
+                            [year] => 2001
+                            [type] => copyright
+                        )
+
+                )
+
+            [license] => Array
+                (
+                    [reproducedPermission] => Array
+                        (
+                            [en] => The National Library of Wales
+                            [cy] => Llyfrgell Genedlaethol Cymru
+                        )
+
+                    [additionalText] => Array
+                        (
+                        )
+
+                    [type] => ARR
+                )
+
+            [tags] => Array
+                (
+                    [0] => meeting
+                    [1] => protest
+                    [2] => reservoir
+                )
+
+            [when] => Array
+                (
+                )
+
+            [date] => +0019561004999999
+            [what] => Array
+                (
+                )
+
+            [learn] => Array
+                (
+                )
+
+            [locations] => Array
+                (
+                    [0] => Array
+                        (
+                            [lat] => 52.914834611604
+                            [lon] => -3.598905198423
+                            [description] => Array
+                                (
+                                    [en] => 'Save Tryweryn' Rally organised by Plaid Cymru, Bala, 4 October 1956
+                                    [cy] => 'Save Tryweryn' Rally organised by Plaid Cymru, Bala, 4 October 1956
+                                )
+
+                        )
+
+                )
+
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [originalFilename] => GTJ11786_2.jpg
+                            [url] => https://www.peoplescollection.wales/sites/default/files/images/2014/February/GTJ11786_2.jpg
+                            [type] => image
+                            [target_id] => 319135
+                        )
+
+                )
+
+            [original_item_url] => Array
+                (
+                    [en] => 
+                    [cy] => 
+                )
+
+            [guid] => a23aa775-7a70-40c8-a066-f8845e7790bb
+            [publisher_ref] => GTJ11786
+        )
+
+    [2] => Array
+        (
+            [id] => 13
+            [title] => Array
+                (
+                    [en] => A family leaving Capel Celyn (Cwm Tryweryn) for the last time, 1956
+                    [cy] => Teulu yn gadael Capel Celyn (Cwm Tryweryn) am y tro olaf, 1956
+                )
+
+            [nodeType] => item
+            [url] => https://www.peoplescollection.wales/items/13
+            [created] => 1248428068
+            [updated] => 1593599422
+            [status] => published
+            [type] => item
+            [description] => Array
+                (
+                    [en] => Photographed by Geoff Charles.
+
+It was in 1955 that it was first announced that Liverpool Corporation was intending to build the new reservoir in the Tryweryn valley, drowning the village of Capel Celyn, north of Bala.  Although a fierce protest campaign was launched by local residents, authorities, individuals and national institutions, all efforts to halt the building of the new reservoir ultimately failed.  On 1 August 1957 the Liverpool Corporation Act was passed.  Work began on the site three years later and was completed in August 1965.
+                    [cy] => Tynnwyd y ffotograff gan Geoff Charles.
+
+Ym 1955, cyhoeddodd Corfforaeth Lerpwl ei bwriad i adeiladu cronfa ddŵr newydd yng Nghwm Tryweryn, gan foddi pentref Capel Celyn, i'r gogledd o dref y Bala.  Lansiwyd ymgyrch ddygn i wrthwynebu'r cynlluniau gan drigolion ac awdurdodau lleol, unigolion a sefydliadau cenedlaethol,  ond er gwaethaf pob ymdrech ni lwyddwyd i rwystro'r datblygiad ac ar 1 Awst 1957 pasiwyd Deddf Corfforaeth Lerpwl.  Dechreuodd y gwaith ar y safle dair mlynedd yn ddiweddarach ac fe gwblhawyd y cynllun ym mis Awst 1965.
+                )
+
+            [author] => Array
+                (
+                    [id] => 2889
+                    [name] => Gathering The Jewels
+                )
+
+            [creator] => Charles, Geoff
+            [owner] => The National Library of Wales
+            [publisher] => 
+            [copyright] => Array
+                (
+                    [0] => Array
+                        (
+                            [holder] => Array
+                                (
+                                    [en] => The National Library of Wales
+                                    [cy] => The National Library of Wales
+                                )
+
+                            [year] => 2001
+                            [type] => copyright
+                        )
+
+                )
+
+            [license] => Array
+                (
+                    [reproducedPermission] => Array
+                        (
+                            [en] => The National Library of Wales
+                            [cy] => Llyfrgell Genedlaethol Cymru
+                        )
+
+                    [additionalText] => Array
+                        (
+                        )
+
+                    [type] => ARR
+                )
+
+            [tags] => Array
+                (
+                    [0] => families
+                    [1] => family
+                    [2] => protest
+                    [3] => reservoir
+                )
+
+            [when] => Array
+                (
+                    [0] => 1950s
+                )
+
+            [date] => +0019560000999999
+            [what] => Array
+                (
+                )
+
+            [learn] => Array
+                (
+                )
+
+            [locations] => Array
+                (
+                    [0] => Array
+                        (
+                            [lat] => 52.949333614618
+                            [lon] => -3.704383121025
+                            [description] => Array
+                                (
+                                    [en] => A family leaving Capel Celyn (Cwm Tryweryn) for the last time, 1956
+                                    [cy] => Teulu yn gadael Capel Celyn (Cwm Tryweryn) am y tro olaf, 1956
+                                )
+
+                        )
+
+                )
+
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [originalFilename] => GTJ11787_2.jpg
+                            [url] => https://www.peoplescollection.wales/sites/default/files/images/2014/February/GTJ11787_2.jpg
+                            [type] => image
+                            [target_id] => 319136
+                        )
+
+                )
+
+            [original_item_url] => Array
+                (
+                    [en] => 
+                    [cy] => 
+                )
+
+            [guid] => 7b9c0a06-3fcc-442b-b2eb-b810d4e87fbc
+            [publisher_ref] => GTJ11787
+        )
+
+    [3] => Array
+        (
+            [id] => 14
+            [title] => Array
+                (
+                    [en] => A bleak view of Capel Celyn (Cwm Tryweryn), 14 November 1963
+                    [cy] => Golygfa brudd o Gapel Celyn (Cwm Tryweryn), 14 Tachwedd 1963
+                )
+
+            [nodeType] => item
+            [url] => https://www.peoplescollection.wales/items/14
+            [created] => 1248428069
+            [updated] => 1593599424
+            [status] => published
+            [type] => item
+            [description] => Array
+                (
+                    [en] => Photographed by Geoff Charles.  This photograph shows Deiniol Prys Jones on his bicycle in the village.
+
+It was in 1955 that it was first announced that Liverpool Corporation was intending to build the new reservoir in the Tryweryn valley, drowning the village of Capel Celyn, north of Bala.  Although a fierce protest campaign was launched by local residents, authorities, individuals and national institutions, all efforts to halt the building of the new reservoir ultimately failed.  On 1 August 1957 the Liverpool Corporation Act was passed.  Work began on the site three years later and was completed in August 1965.
+                    [cy] => Tynnwyd y ffotograff gan Geoff Charles.  Yma gwelir Deiniol Prys Jones ar ei feic yn y pentref.
+
+Ym 1955, cyhoeddodd Corfforaeth Lerpwl ei bwriad i adeiladu cronfa ddŵr newydd yng Nghwm Tryweryn, gan foddi pentref Capel Celyn, i'r gogledd o dref y Bala.  Lansiwyd ymgyrch ddygn i wrthwynebu'r cynlluniau gan drigolion ac awdurdodau lleol, unigolion a sefydliadau cenedlaethol,  ond er gwaethaf pob ymdrech ni lwyddwyd i rwystro'r datblygiad ac ar 1 Awst 1957 pasiwyd Deddf Corfforaeth Lerpwl.  Dechreuodd y gwaith ar y safle dair mlynedd yn ddiweddarach ac fe gwblhawyd y cynllun ym mis Awst 1965.
+                )
+
+            [author] => Array
+                (
+                    [id] => 2889
+                    [name] => Gathering The Jewels
+                )
+
+            [creator] => Charles, Geoff
+            [owner] => The National Library of Wales
+            [publisher] => 
+            [copyright] => Array
+                (
+                    [0] => Array
+                        (
+                            [holder] => Array
+                                (
+                                    [en] => The National Library of Wales
+                                    [cy] => The National Library of Wales
+                                )
+
+                            [year] => 2001
+                            [type] => copyright
+                        )
+
+                )
+
+            [license] => Array
+                (
+                    [reproducedPermission] => Array
+                        (
+                            [en] => The National Library of Wales
+                            [cy] => Llyfrgell Genedlaethol Cymru
+                        )
+
+                    [additionalText] => Array
+                        (
+                        )
+
+                    [type] => ARR
+                )
+
+            [tags] => Array
+                (
+                    [0] => bicycles and tricycles
+                    [1] => boy
+                    [2] => children
+                    [3] => protest
+                    [4] => reservoir
+                )
+
+            [when] => Array
+                (
+                    [0] => Mesolithic (-8500 to -4400)
+                )
+
+            [date] => +0019631114999999,
+            [what] => Array
+                (
+                    [0] => Homes and Homelife
+                    [1] => OTHER: Industry
+                )
+
+            [learn] => Array
+                (
+                )
+
+            [locations] => Array
+                (
+                    [0] => Array
+                        (
+                            [lat] => 52.949333614618
+                            [lon] => -3.704383121025
+                            [description] => Array
+                                (
+                                    [en] => A bleak view of Capel Celyn (Cwm Tryweryn), 14 November 1963
+                                    [cy] => Golygfa brudd o Gapel Celyn (Cwm Tryweryn), 14 Tachwedd 1963
+                                )
+
+                        )
+
+                )
+
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [originalFilename] => GTJ11788_2.jpg
+                            [url] => https://www.peoplescollection.wales/sites/default/files/images/2014/February/GTJ11788_2.jpg
+                            [type] => image
+                            [target_id] => 319137
+                        )
+
+                )
+
+            [original_item_url] => Array
+                (
+                    [en] => 
+                    [cy] => 
+                )
+
+            [guid] => de06b225-c7e1-4a7c-86bf-46d22cb4d0be
+            [publisher_ref] => GTJ11788
+        )
+
+    [4] => Array
+        (
+            [id] => 15
+            [title] => Array
+                (
+                    [en] => Interior of the derelict chapel at Capel Celyn, 14 November 1963
+                    [cy] => Tu mewn i'r capel adfeiliedig yng Nghapel Celyn, 14 Tachwedd 1963
+                )
+
+            [nodeType] => item
+            [url] => https://www.peoplescollection.wales/items/15
+            [created] => 1248428069
+            [updated] => 1593599427
+            [status] => published
+            [type] => item
+            [description] => Array
+                (
+                    [en] => Photographed by Geoff Charles.  
+
+It was in 1955 that it was first announced that Liverpool Corporation was intending to build the new reservoir in the Tryweryn valley, drowning the village of Capel Celyn, north of Bala.  Although a fierce protest campaign was launched by local residents, authorities, individuals and national institutions, all efforts to halt the building of the new reservoir ultimately failed.  On 1 August 1957 the Liverpool Corporation Act was passed.  Work began on the site three years later and was completed in August 1965.
+                    [cy] => Tynnwyd y ffotograff gan Geoff Charles.
+
+Ym 1955, cyhoeddodd Corfforaeth Lerpwl ei bwriad i adeiladu cronfa ddŵr newydd yng Nghwm Tryweryn, gan foddi pentref Capel Celyn, i'r gogledd o dref y Bala.  Lansiwyd ymgyrch ddygn i wrthwynebu'r cynlluniau gan drigolion ac awdurdodau lleol, unigolion a sefydliadau cenedlaethol,  ond er gwaethaf pob ymdrech ni lwyddwyd i rwystro'r datblygiad ac ar 1 Awst 1957 pasiwyd Deddf Corfforaeth Lerpwl.  Dechreuodd y gwaith ar y safle dair mlynedd yn ddiweddarach ac fe gwblhawyd y cynllun ym mis Awst 1965.
+                )
+
+            [author] => Array
+                (
+                    [id] => 2889
+                    [name] => Gathering The Jewels
+                )
+
+            [creator] => Charles, Geoff
+            [owner] => The National Library of Wales
+            [publisher] => 
+            [copyright] => Array
+                (
+                    [0] => Array
+                        (
+                            [holder] => Array
+                                (
+                                    [en] => The National Library of Wales
+                                    [cy] => The National Library of Wales
+                                )
+
+                            [year] => 2001
+                            [type] => copyright
+                        )
+
+                )
+
+            [license] => Array
+                (
+                    [reproducedPermission] => Array
+                        (
+                            [en] => The National Library of Wales
+                            [cy] => Llyfrgell Genedlaethol Cymru
+                        )
+
+                    [additionalText] => Array
+                        (
+                        )
+
+                    [type] => ARR
+                )
+
+            [tags] => Array
+                (
+                    [0] => boy
+                    [1] => chapel
+                    [2] => children
+                    [3] => protest
+                    [4] => reservoir
+                )
+
+            [when] => Array
+                (
+                    [0] => Neolithic (-4400 to -2200)
+                )
+
+            [date] => +0019631114999999,
+            [what] => Array
+                (
+                    [0] => OTHER: Religion and Beliefs
+                )
+
+            [learn] => Array
+                (
+                )
+
+            [locations] => Array
+                (
+                    [0] => Array
+                        (
+                            [lat] => 52.949333614618
+                            [lon] => -3.704383121025
+                            [description] => Array
+                                (
+                                    [en] => Interior of the derelict chapel at Capel Celyn, 14 November 1963
+                                    [cy] => Tu mewn i'r capel adfeiliedig yng Nghapel Celyn, 14 Tachwedd 1963
+                                )
+
+                        )
+
+                )
+
+            [files] => Array
+                (
+                    [0] => Array
+                        (
+                            [originalFilename] => GTJ11789_2.jpg
+                            [url] => https://www.peoplescollection.wales/sites/default/files/images/2014/February/GTJ11789_2.jpg
+                            [type] => image
+                            [target_id] => 319138
+                        )
+
+                )
+
+            [original_item_url] => Array
+                (
+                    [en] => 
+                    [cy] => 
+                )
+
+            [guid] => 6cdecf0d-9d21-4feb-b7ab-95dc9333b9d2
+            [publisher_ref] => GTJ11789
+        )
+
+)
